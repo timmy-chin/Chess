@@ -23,5 +23,13 @@
 #
 # print(tabulate(d, headers=["Index", "Age", "Percent"]))
 
-for i in range(8,-8):
-     print(i)
+# choice = 'killing'
+# if choice.lower == 'k' or choice == 'killing':
+#      print('True')
+
+
+# dict = {'Hello':'Man', 'Goodbye': 'Homie'}
+#
+# print('Man' in dict.values())
+
+print((1+1)%2)
