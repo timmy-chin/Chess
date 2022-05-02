@@ -1,0 +1,8 @@
+Rook
+Knight
+Bishop
+Queen
+King
+Bishop
+Knight
+Rook
