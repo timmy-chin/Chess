@@ -32,4 +32,6 @@
 #
 # print('Man' in dict.values())
 
-print((1+1)%2)
+# for i in range(1,1):
+#     print(i)
+
